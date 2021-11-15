@@ -11,7 +11,7 @@ Here's some info...
 
 You can find me here... 
 
-- 🌐 Website: loading solo.to/davidegiuffrida
+- 🌐 Website: https://solo.to/davidegiuffrida
 - ❓ Help/Contact me: info.davidegiuffrida@gmail.com 
 - ✉️ Mail: info.davidegiuffrida@gmail.com
 
